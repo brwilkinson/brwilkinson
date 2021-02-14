@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I migrated my old Technet Script Center Scripts to here [msdn-scriptcenter-repo](https://brwilkinson.github.io/msdn-scriptcenter-repo/)
+
 <!--
 **brwilkinson/brwilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
