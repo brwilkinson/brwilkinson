@@ -4,7 +4,7 @@
 I migrated my old Technet Script Center Scripts to here [msdn-scriptcenter-repo](https://brwilkinson.github.io/msdn-scriptcenter-repo/)
 
 Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://brwilkinson.github.io/AzureDeploymentFramework/)
-- Note this has now fully supports `Bicep`
+- Note this is a `Bicep` project and the ARM templates will be archived soon.
 
 --
 <!--
