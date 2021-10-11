@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Interesting projects
-I migrated my old Technet Script Center Scripts to here [msdn-scriptcenter-repo](https://brwilkinson.github.io/msdn-scriptcenter-repo/)
+I migrated my old Technet Script Center [PowerShell] Scripts to here [msdn-scriptcenter-repo](https://brwilkinson.github.io/msdn-scriptcenter-repo/)
 
 Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://brwilkinson.github.io/AzureDeploymentFramework/)
 - Note this is now a `Bicep` project and the ARM templates will be archived soon.
