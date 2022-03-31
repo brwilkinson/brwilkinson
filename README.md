@@ -6,6 +6,8 @@ I migrated my old Technet Script Center [PowerShell] Scripts to here [msdn-scrip
 Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://brwilkinson.github.io/AzureDeploymentFramework/)
 - Note this is now a `Bicep` 💪🏼 project and the ARM templates will be archived soon.
 
+- Sample project 'built from' the `AzureDeploymentFramework` [microsoftgraph/microsoft-graph-comms-samples/Teams EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)
+
 <!--
 **brwilkinson/brwilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
