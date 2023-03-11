@@ -13,11 +13,13 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
       - Zone redundant Public Ip's
       - Bastion Hosts
       - Private DNS resolver
+      - Private Link
     - Added templates:
       - Frontdoor
       - AKS
       - Service Fabric Managed
       - APIM
+      - IAM/PIM as Code
 
 - Sample project 'built from' the `AzureDeploymentFramework` [microsoftgraph/microsoft-graph-comms-samples/Teams EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)
 
