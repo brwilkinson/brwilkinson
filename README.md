@@ -4,8 +4,8 @@
 I migrated my old Technet Script Center [PowerShell] Scripts to here [msdn-scriptcenter-repo](https://brwilkinson.github.io/msdn-scriptcenter-repo/)
 
 Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://brwilkinson.github.io/AzureDeploymentFramework/)
-- Note this is now a `Bicep` 💪🏼 project and the ARM templates are archive to armjson branch
-- Note the previous main branch was moved to ADFv2 branch, new code is in main which is V3 code
+- Note this is now a `Bicep` 💪🏼 project and the ARM templates are archive to `armjson` branch
+- Note the previous main branch was moved to `ADFv2` branch, new code is in `main` which is V3 code
   - This is an updated version of this Framework
     - Streamlined deployments
       - Automated Networking supports up to 32 tenants/Application Deployments 
