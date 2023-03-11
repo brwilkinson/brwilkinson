@@ -8,7 +8,11 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
 - Note the previous main branch was moved to `ADFv2` branch, new code is in `main` which is V3 code
   - This is an updated version of this Framework
     - Streamlined deployments
-      - Automated Networking supports up to 32 tenants/Application Deployments 
+      - Automated Networking supports up to 32 tenants/Application Deployments
+      - Nat Gateways
+      - Zone redundant Public Ip's
+      - Bastion Hosts
+      - Private DNS resolver
     - Added templates:
       - Frontdoor
       - AKS
