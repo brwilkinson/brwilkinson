@@ -21,10 +21,6 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
       - APIM
       - IAM/PIM as Code
 
-**Full list of templates:**
-
-![Bicep_Templates](https://user-images.githubusercontent.com/3605266/224511166-16df8b47-4595-4155-9d0c-772d59fd97bf.png)
-
 - Sample project 'built from' the `AzureDeploymentFramework` [microsoftgraph/microsoft-graph-comms-samples/Teams EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)
 
 <!--
