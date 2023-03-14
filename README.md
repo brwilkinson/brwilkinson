@@ -20,6 +20,7 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
       - Service Fabric Managed
       - APIM
       - IAM/PIM as Code
+      - See more [full-list-of-templates](https://github.com/brwilkinson/AzureDeploymentFramework#full-list-of-templates)
 
 - Sample project 'built from' the `AzureDeploymentFramework` [microsoftgraph/microsoft-graph-comms-samples/Teams EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)
 
