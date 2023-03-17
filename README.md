@@ -8,19 +8,12 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
 - Note the previous main branch was moved to `ADFv2` branch, new code is in `main` which is V3 code (March 2023)
   - This is an updated version of this Framework
     - Streamlined deployments
-      - Automated Networking supports up to 32 tenants/Application Deployments
-      - Nat Gateways
-      - Zone redundant Public Ip's
-      - Bastion Hosts
-      - Private DNS resolver
-      - Private Link
+      - Automated Networking supports up to 32 tenants/Application Deployments.
+      - Nat Gateways, Zone redundant Public Ip's, Bastion Hosts, Private DNS resolver, Private Link Etc.
+      - Automated Service Principal Setup and Secret Rotation.
     - Added templates:
-      - Frontdoor
-      - AKS
-      - Service Fabric Managed
-      - APIM
-      - IAM/PIM as Code
-      - See more [full-list-of-templates](https://github.com/brwilkinson/AzureDeploymentFramework#full-list-of-templates)
+      - Frontdoor, AKS, Service Fabric Managed, APIM, IAM/PIM as Code
+        - See more [full-list-of-templates](https://github.com/brwilkinson/AzureDeploymentFramework#full-list-of-templates)
 
 - Sample project 'built from' the `AzureDeploymentFramework` [microsoftgraph/microsoft-graph-comms-samples/Teams EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)
 
