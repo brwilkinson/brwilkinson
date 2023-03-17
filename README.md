@@ -13,7 +13,7 @@ Azure Deployment Framework (ADF) docs here [AzureDeploymentFramework](https://br
       - Nat Gateways, Zone redundant Public Ip's, Bastion Hosts, Private DNS resolver, Private Link Etc.
       - Automated Service Principal Setup and Secret Rotation.
     - Added templates:
-      - Frontdoor, AKS, Service Fabric Managed, APIM, IAM/PIM as Code
+      - Frontdoor/CDN, AKS, Service Fabric Managed, APIM, IAM/PIM as Code
         - See more [full-list-of-templates](https://github.com/brwilkinson/AzureDeploymentFramework#full-list-of-templates)
 
 <!--
